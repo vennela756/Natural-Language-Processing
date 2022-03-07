@@ -1,0 +1,6 @@
+Before running the code => Plese download the following packages:
+     numpy, nltk, sklearn, matplotlib
+
+Give the command --> python skipgram.py
+
+Ensure that sentences.txt file is present in the same directory as of the skipgram.py
